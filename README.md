@@ -12,4 +12,5 @@ In today's data-driven world, businesses must harness the power of data to thriv
 The outcomes speak volumes: better decision-making, increased efficiency, and heightened customer satisfaction. 📈
 
 This project underscores the significance of data-driven decision-making and the potential of Power BI to drive results. It's not just a project; it's a commitment to excellence in the data-centric era. 🌐
-![Screenshot (41)](https://github.com/robinaalok-pro/PowerBI_Project-/assets/106687764/e08aa3da-3a05-4103-b01d-fa8ad95264ff)
+![Snaphot 1](https://github.com/robinaalok-pro/PowerBI_Project-/assets/106687764/eb5c36ed-df25-4848-a17c-0a2b1534f50a)
+![Snaphot 2](https://github.com/robinaalok-pro/PowerBI_Project-/assets/106687764/440146a9-df3e-4d7b-b649-b27196e6cb8d)
